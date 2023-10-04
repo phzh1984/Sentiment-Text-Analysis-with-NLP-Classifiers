@@ -2,7 +2,7 @@
 
 Overview
 
-This repository contains a dataset of tweets related to the Coronavirus pandemic, along with manual annotations for text classification. The dataset was collected from Twitter, and each tweet has been labeled to categorize its content. In this project, we utilize natural language processing (NLP) models, specifically BERT (Bidirectional Encoder Representations from Transformers) and RoBERTa (A Robustly Optimized BERT Pretraining Approach), to perform text classification on this data.
+This repository analyzes a dataset of tweets related to the Coronavirus pandemic, along with manual annotations for text classification. The dataset was collected from Twitter, and each tweet has been labeled to categorize its content. In this project, we utilize natural language processing (NLP) models, specifically BERT (Bidirectional Encoder Representations from Transformers) and Roberta (A Robustly Optimized BERT Pretraining Approach), to perform text classification on this data.
 
 Dataset Information
 
